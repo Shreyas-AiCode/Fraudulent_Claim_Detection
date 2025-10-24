@@ -1,6 +1,4 @@
 # Fraudulent_Claim_Detection
-Business Analytics Group Case Study
-This project is part of the Business Analytics coursework and aims to solve a real-world classification problem:
 
 Detecting potentially fraudulent insurance claims using historical customer and claim data.
 
@@ -8,9 +6,7 @@ Detecting potentially fraudulent insurance claims using historical customer and 
 To develop a machine learning model that accurately identifies fraudulent insurance claims, with a specific focus on maximizing recall — ensuring that as many true fraud cases as possible are flagged for further investigation, even at the cost of increased false positives.
 
 📁 Repository Structure
-- Fraudulent_Claim_Detection_Shreyas_Shubhankar_Udipt.ipynb   # Solution notebook with code, visuals and analysis
-- Fraudulent_Claim_Detection_Report.pdf                        # Business report with insights
-- Fraudulent_Claim_Detection_PPT.pdf                           # Executive summary presentation with conclusions
+- Fraudulent_Claim_Detection_Shreyas_Somani.ipynb  # Solution notebook with code, visuals and analysis
 - README.md                                                    # This file
 
 🧠 Methodology
@@ -70,19 +66,9 @@ Minimize financial loss
 Save time by flagging only risky claims for manual investigation
 
 👨‍💻 Contributors
-This project was developed as a team case study by:
-
-Shubhankar Chakravarty
+This project was developed by
 
 Shreyas Somani
 
-Udipt Raj
 
-📌 Submission Info
-This repository is structured as per submission guidelines and includes:
 
-- Starter notebook with added code
-
-- All visualizations and modeling steps
-
-- Final recommendations and business insights
